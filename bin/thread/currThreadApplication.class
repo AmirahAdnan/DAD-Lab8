@@ -1,0 +1,10 @@
+Êþº¾   8 '  thread/currThreadApplication  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this Lthread/currThreadApplication; main ([Ljava/lang/String;)V  thread/currentThread
+  	  Word1
+    java/lang/Thread   setName (Ljava/lang/String;)V  Word2
+     start args [Ljava/lang/String; thread1 Ljava/lang/Thread; thread2 
+SourceFile currThreadApplication.java !               /     *· ±    
+                 
+   	       {     %» Y· L» Y· M+¶ ,¶ +¶ ,¶ ±    
+         	    
+      $          %   !     " #    $ #   %    &
